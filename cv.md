@@ -1,19 +1,22 @@
-Name:
-Rasdag
+* Name:
+# Rasdag
 
-Сontacts:
-raszel@mail.ru
+* Сontacts:
+## raszel@mail.ru
 
-About Me:
+* About Me:
 I want to learn a new programming language
 
-Skills:
-programming language 1с
+* Skills:
+> programming language 1с
 
-Work experience:
+* Work experience:
 many works 1c
 
-English:
+* tasks
+[cv](https://github.com/Rasdag0/rsschool-cv/blob/gh-pages/cv.md)
+
+* English:
 so-so
 
 
