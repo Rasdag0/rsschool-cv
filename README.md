@@ -1,2 +1,1 @@
-Deploy:
-https://rasdag0.github.io/rsschool-cv/
+https://rasdag0.github.io/rsschool-cv/cv
